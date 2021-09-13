@@ -1,0 +1,6 @@
+PyMySQL
+PyQt5
+PyQt5-sip
+pyqt5-tools
+cryptography
+python-dateutil
